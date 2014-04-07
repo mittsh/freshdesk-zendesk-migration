@@ -72,3 +72,8 @@ f2z = F2Z(
 )
 f2z.migrate_all(205)
 ```
+
+Roadmap
+-------
+
+* Add a note in the previous Freshdesk ticket with the new Zendesk Ticket URL (using http://freshdesk.com/api/#add_note_to_a_ticket)
